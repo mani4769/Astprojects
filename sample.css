@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(231, 210, 214);
+}
+.border {
+     background-color: wheat;
+      width: 70%;
+      height: 70vh;
+      margin-top: 8vh;
+      margin-left: 10%;
+}
+.border2
+{
+    background-color: whitesmoke;
+    width: 95%;
+    height: 62vh;
+    margin-left: 3vh;
+    margin-top: 1.5%;
+}
+a{
+    text-decoration: none;
+}
+.mani2
+{
+    float: left;
+    width: 50%;
+}
+.mani3
+{
+    float: right;
+    width: 50%;
+}
+
